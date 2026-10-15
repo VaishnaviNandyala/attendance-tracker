@@ -35,8 +35,6 @@ Tracking attendance by hand across many sessions, years and students is slow and
 
 ## Screenshots
 
-> Add your screenshots to a `screenshots/` folder and update the file names below.
-
 | Roster | Mark attendance |
 |---|---|
 | ![Roster](screenshots/roster.png) | ![Mark attendance](screenshots/mark_attendance.png) |
